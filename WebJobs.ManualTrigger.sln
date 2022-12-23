@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobs.ManualTrigger", "WebJobs.ManualTrigger\WebJobs.ManualTrigger.csproj", "{34511727-57AC-4F88-B3EB-065BF942EF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobs.AutomaticTrigger", "WebJobs.AutomaticTrigger\WebJobs.AutomaticTrigger.csproj", "{8E9E376B-E284-49B0-B982-99FA3F6AE985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34511727-57AC-4F88-B3EB-065BF942EF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34511727-57AC-4F88-B3EB-065BF942EF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34511727-57AC-4F88-B3EB-065BF942EF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34511727-57AC-4F88-B3EB-065BF942EF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9E376B-E284-49B0-B982-99FA3F6AE985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9E376B-E284-49B0-B982-99FA3F6AE985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9E376B-E284-49B0-B982-99FA3F6AE985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9E376B-E284-49B0-B982-99FA3F6AE985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583443EF-AA4E-4EED-9364-831540315444}
+	EndGlobalSection
+EndGlobal

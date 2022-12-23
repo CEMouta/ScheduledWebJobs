@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WebJobs.ManualTrigger": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
